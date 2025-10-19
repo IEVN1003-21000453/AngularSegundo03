@@ -1,0 +1,30 @@
+.card {
+  border-radius: 15px;
+  transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+}
+
+.resultado-card {
+  background-color: #e3f2fd; /* Celeste suave */
+  border-left: 6px solid #2196f3;
+}
+
+.resultado-vacia {
+  background-color: #f8f9fa;
+  border-left: 6px solid #adb5bd;
+}
+
+img {
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.08);
+}
+
+button {
+  font-weight: bold;
+}
