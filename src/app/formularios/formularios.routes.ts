@@ -19,3 +19,4 @@ export default [
       import('../zodiaco/zodiaco.component').then((c) => c.ZodiacoComponent),
   },
 ] as Routes;
+

@@ -22,3 +22,4 @@ export default [
       import('./editar/editar.component').then((c) => c.EditarComponent),
   },
 ] as Routes;
+

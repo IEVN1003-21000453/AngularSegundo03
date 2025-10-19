@@ -14,3 +14,4 @@ export class ResultadoZodiaco {
   signoZodiacal = ''
   imagenSigno = ''
 }
+

@@ -22,3 +22,4 @@ export default [
     pathMatch: 'full',
   },
 ] as Routes;
+

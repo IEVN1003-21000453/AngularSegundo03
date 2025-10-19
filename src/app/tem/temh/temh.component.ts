@@ -15,3 +15,4 @@ export class TemhComponent {
     this.mensaje2.emit('Mensaje desde Temh Component');
   }
 }
+

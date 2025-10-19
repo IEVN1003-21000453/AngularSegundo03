@@ -87,3 +87,4 @@ export class ZodiacoComponent implements OnInit {
     return this.signos[((this.persona.anioNacimiento - 4) + 12) % 12]
   }
 }
+

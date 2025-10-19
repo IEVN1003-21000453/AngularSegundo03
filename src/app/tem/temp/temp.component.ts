@@ -16,3 +16,4 @@ export class TempComponent {
     this.mensajeRecibido = event;
   }
 }
+
